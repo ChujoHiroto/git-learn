@@ -20,7 +20,12 @@ git commit -m "コメント"
 
 git checkout "ブランチ名"
 
-git checkout -b "作成するブランチ名"
+git remote add origin "URL"
 
 git push origin master
+
+
+git checkout -b "作成するブランチ名"
+
+
 
