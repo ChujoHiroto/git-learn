@@ -1,0 +1,26 @@
+# Git
+バージョン管理ツール
+
+## Branch
+
+
+## Commit
+
+
+# Github
+Gitを実装してあるWebサービス
+
+
+
+# 使うコマンド
+
+git add .
+
+git commit -m "コメント"
+
+git checkout "ブランチ名"
+
+git checkout -b "作成するブランチ名"
+
+git push origin master
+
